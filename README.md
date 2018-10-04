@@ -3,39 +3,42 @@ Este repositório foi criado com intuito de disponibilizar os pré-requisitos e 
 
 ## Introdução
 
-
-
+Esta etapa do processo seletivo desejamos que você desenvolva um projeto prático de front-end. 
+Deverá ser criado a estrutura front-end RESPONSIVA do layout que se encontra neste repositório.
 
 ## Requisitos
 
-- 
--
--
--
--
-
+- HTML 5
+- CSS 3
+- Fontes Web 
+- JavaScript 
+- Consultar API
+- Bootstrap 4
+- Template rendering
+- Wai ARIA
+- GitHub
+- Noções de Fireworks ou Photoshop
 
 ## Atividades
 
-- 
--
--
--
--
-
+- Criar landpage responsiva contendo 6 (seis) sessões, incluindo Home, galeria de imagens e formulário de contato.
+- Na sessão 'galeria de imagens', consultar API do Instagram
+- Listar imagens da API usando Mustache.js
+- Aplicar Google analytics
+- Gravar informações usando cookie
 
 ## Critérios de avaliação 
 
 Caso o projeto entregue seja enviado com todos os critérios acima, 
 serão levados em consideração também os seguintes conhecimentos:
 
-- 
--
--
--
--
-
-
+- Sintaxe e semântica do HTML
+- Baixo tempo de renderização
+- Noções de SEO
+- Scripts no geral
+- Organização do projeto
+- Documentação
+- Uso de controle de versão
 
 ## Processo de submissão
 
