@@ -21,13 +21,13 @@ Deverá ser criado a estrutura front-end RESPONSIVA do layout que se encontra ne
 
 ## Atividades
 
-- Criar landpage responsiva contendo 6 (seis) sessões, incluindo Home, galeria de imagens e formulário de contato.
+- Criar landpage responsiva contendo 6 (seis) sessões, incluindo Home, Galeria de Imagens e Formulário de Contato.
 - Na sessão 'galeria de imagens', consultar API do Instagram
 - Listar imagens da API usando Mustache.js
-- Aplicar Google analytics
-- Gravar informações usando cookie
+- Aplicar Google Analytics
+- Gravar informações usando Cookie
 
-## Critérios de avaliação 
+## Critérios de Avaliação 
 
 Caso o projeto entregue seja enviado com todos os critérios acima, 
 serão levados em consideração também os seguintes conhecimentos:
@@ -40,7 +40,7 @@ serão levados em consideração também os seguintes conhecimentos:
 - Documentação
 - Uso de controle de versão
 
-## Processo de submissão
+## Processo de Submissão
 
 O teste deve ser versionado e disponibilizado no GitHub do candidado.<br />
 Enviar o link para: mariafernandes@opovodigital.com<br />
