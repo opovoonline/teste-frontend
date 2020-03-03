@@ -12,20 +12,14 @@ Deverá ser criado a estrutura front-end RESPONSIVA do layout que se encontra ne
 - CSS 3
 - Fontes Web 
 - JavaScript 
-- Consultar API
 - Bootstrap 4
 - Template rendering
 - Wai ARIA
 - GitHub
-- Noções de Fireworks ou Photoshop
 
 ## Atividades
 
-- Criar landpage responsiva contendo 6 (seis) sessões, incluindo Home, Galeria de Imagens e Formulário de Contato.
-- Na sessão 'galeria de imagens', consultar API do Instagram
-- Listar imagens da API usando Mustache.js
-- Aplicar Google Analytics
-- Gravar informações usando Cookie
+- Criar landpage responsiva contendo Menu, Descrição da Vaga e Formulário de Envio.
 
 ## Critérios de Avaliação 
 
@@ -43,7 +37,7 @@ serão levados em consideração também os seguintes conhecimentos:
 ## Processo de Submissão
 
 O teste deve ser versionado e disponibilizado no GitHub do candidado.<br />
-Enviar o link para: brendacamara@opovodigital.com e mariafernandes@opovodigital.com<br />
+Enviar o link para: brendacamara@opovodigital.com<br />
 
 Boa sorte a todos e<br />
 Bom trabalho!!
