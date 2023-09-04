@@ -3,7 +3,7 @@ Este repositório foi criado com intuito de disponibilizar os pré-requisitos e 
 
 ## Introdução
 
-Está etapa do preocesso seletivo desejamos que você desenvolva um projeto prático. Obviamente prezamos por uma página 100% RESPONSIVA em todos os dispositivos. Boas práticas de performance e acessibilidade são essenciais.
+Esta etapa do preocesso seletivo desejamos que você desenvolva um projeto prático. Obviamente prezamos por uma página 100% RESPONSIVA em todos os dispositivos. Boas práticas de performance e acessibilidade são essenciais.
 
 ## Requisitos
 
